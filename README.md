@@ -28,3 +28,11 @@ We bulit this class by `GraphAlgoInterface`, It contains only one class `GraphAl
 7. `connected_components` : finds **all** the strongly connected component (SCC) in the graph.
 ![toposcc2](https://user-images.githubusercontent.com/73169815/104426361-83cc8a80-558a-11eb-8606-dda1bfc814f0.gif)
 8. `plot_graph` : to plots the graph. If the nodes have a position, the nodes will be placed there.Otherwise, they will be placed in a random but elegant manner.
+
+## Third Part:
+In this part we did a comparison to results parallel solutions, the comparison included the following ingredients:
+1. `Correctness test` - on the same test files (same json files).
+2. `Comparative test of runtime on the same scenarios` - with an emphasis on algorithms.
+• Comparison with Ex2 in java- we add some function in ex2 to help us.
+• Comparison with NetworkX in Ex3 in python(this project)
+
