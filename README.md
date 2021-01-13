@@ -28,6 +28,7 @@ We bulit this class by `GraphAlgoInterface`, It contains only one class `GraphAl
 7. `connected_components` : finds **all** the strongly connected component (SCC) in the graph.
 ![toposcc2](https://user-images.githubusercontent.com/73169815/104426361-83cc8a80-558a-11eb-8606-dda1bfc814f0.gif)
 8. `plot_graph` : to plots the graph. If the nodes have a position, the nodes will be placed there.Otherwise, they will be placed in a random but elegant manner.
+<img width="476" alt="צילום מסך 2021-01-13 150323" src="https://user-images.githubusercontent.com/73169815/104468385-10de0680-55c0-11eb-85d2-1c9bda44f151.png">
 
 ## Third Part:
 In this part we did a comparison to results parallel solutions, the comparison included the following ingredients:
