@@ -22,7 +22,7 @@ We bulit this class by `GraphAlgoInterface`, It contains only one class `GraphAl
 2. `get_graph` : it returns the dictionary (key, NodeData)
 3. `load_from_json` : load graph from json file (Nodes, Edges)
 4. `save_to_json` : save graph from json file (Nodes, Edges)
-5. `shortest_path` : find the shortest path between two nodes(src and dest) by using BFS algorithms. For more information:  https://en.wikipedia.org/wiki/Depth-first_search \
+5. `shortest_path` : find the shortest path between two nodes(src and dest) by using Dijkstra algorithms. For more information:  https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm \
 ![Dijkstra_Animation](https://user-images.githubusercontent.com/73169815/104427133-91cedb00-558b-11eb-8625-31f2003474c6.gif)
 6. `connected_component` : to find the strongly connected component (SCC) that this node is part of.
 7. `connected_components` : finds **all** the strongly connected component (SCC) in the graph.
