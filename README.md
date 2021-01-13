@@ -23,4 +23,6 @@ It is contain oly one class `GraphAlgo` , it has these functions *init, get_grap
 3. `load_from_json` : load graph from json file (Nodes, Edges)
 4. `save_to_json` : save graph from json file (Nodes, Edges)
 5. `shortest_path` : find the shortest path between two nodes(src and dest) by using BFS algorithms. For more information:  https://en.wikipedia.org/wiki/Depth-first_search
-6. `connected_component` :
+6. `connected_component` : to find the strongly connected component (SCC) that this node is part of.
+7. `connected_components` : finds **all** the strongly connected component (SCC) in the graph.
+
