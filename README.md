@@ -32,7 +32,7 @@ We bulit this class by `GraphAlgoInterface`, It contains only one class `GraphAl
 ## Third Part:
 In this part we did a comparison to results parallel solutions, the comparison included the following ingredients:
 1. `Correctness test` - on the same test files (same json files).
-2. `Comparative test of runtime on the same scenarios` - with an emphasis on algorithms.
-• Comparison with Ex2 in java- we add some function in ex2 to help us.
+2. `Comparative test of runtime on the same scenarios` - with an emphasis on algorithms. \
+• Comparison with Ex2 in java- we add some function in ex2 to help us.\
 • Comparison with NetworkX in Ex3 in python(this project)
 
